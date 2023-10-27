@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0px;
+    text-align: center;
+    background-image: url(https://desarrollodesitios0.site/protur/public/lugares/Chubut/small/15.jpg-small.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  h1 {
+    color: #0d0c0c;
+    font-family: Arial, sans-serif;
+  }
+  
+  input {
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 8px 12px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  #mensaje {
+    color: #131212;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  footer {
+
+    background-color: dimgray;
+    color: aliceblue;
+    padding: 15px;
+    text-align: center;
+    position: fixed;
+    width:100%;
+    bottom: 0%;
+}
